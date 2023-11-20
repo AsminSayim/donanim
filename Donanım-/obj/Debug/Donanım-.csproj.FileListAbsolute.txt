@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\Donanım-\Donanım-\bin\Debug\Donanım-.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\Donanım-\Donanım-\bin\Debug\Donanım-.exe
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\Donanım-\Donanım-\bin\Debug\Donanım-.pdb
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\Donanım-\Donanım-\obj\Debug\Donanım-.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\Donanım-\Donanım-\obj\Debug\Donanım-.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\Donanım-\Donanım-\obj\Debug\Donanım_.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\Donanım-\Donanım-\obj\Debug\Donanım_.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\Donanım-\Donanım-\obj\Debug\Donanım-.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\Donanım-\Donanım-\obj\Debug\Donanım-.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\Donanım-\Donanım-\obj\Debug\Donanım-.exe
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\Donanım-\Donanım-\obj\Debug\Donanım-.pdb
